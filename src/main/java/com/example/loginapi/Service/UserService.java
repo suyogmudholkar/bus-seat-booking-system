@@ -43,7 +43,7 @@ public class UserService {
         }
 
         return new LoginResponse(
-                "Invalid Username or Password",
+                "Invalid crediantials ",
                 null
         );
     }
